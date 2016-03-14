@@ -6,6 +6,10 @@
         "last_meetup": "",
         "locations": [
             {
+                "name": "Fernandópolis, SP, Brazil",
+                "first_meetup": "2016-01-13"
+            },
+            {
                 "name": "Campinas, SP, Brazil",
                 "first_meetup": "2014-06-02"
             },
